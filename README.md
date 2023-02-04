@@ -1,16 +1,7 @@
 # Machine_Learning_Assignment_2
 
 1. Use a python code to display the following star pattern using the for loop
-2. *
-3. **
-4. ***
-5. ****
-6. *****
-7. ****
-8. ***
-9. **
-10.*
-11. 
+ 
 12. Use looping to output the elements from a provided list present at odd indexes.
 my_list = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 
